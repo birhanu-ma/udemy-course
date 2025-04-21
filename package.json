@@ -1,0 +1,14 @@
+{
+  "name": "udemy-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass starter/sass/main.scss starter/css/style.css -w"
+  },
+  "author": "Birhanu",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
+}
